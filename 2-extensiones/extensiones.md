@@ -33,3 +33,40 @@
 ## ICONOS
 
 ### vscode-icons
+
+### Material icon theme
+
+<br>
+
+## EXTENSIONES GIT 
+
+
+### Git Lens
+
+    - Muestra textos sombreados a lado del dódigo con la fecha y el mensaje del commit que se hizo.
+
+
+### Git Graph
+
+    - Gráfico de ramificación del repositorio
+
+
+
+### Git History
+    
+        - Muestra el historial del repositorio
+
+<br>
+
+## EXTENSIONES GRAPHQL
+
+### Graphql
+
+    - Sintaxis Graphql conoce archivos .graphql - .gpl
+
+<br>
+
+## EXTENSIONES APOLLO GRAPHQL
+
+### Apollo Graphql
+     -Sintaxis Apollo GrapQl
