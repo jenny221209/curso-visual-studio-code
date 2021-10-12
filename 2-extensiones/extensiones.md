@@ -1,9 +1,7 @@
 <br>
 
 ===========================================================================================
-
 # EXTENSIONES
-
 ===========================================================================================
 
 <br>
@@ -12,83 +10,110 @@
 
 ===========================================================================================
 
-### Spanish Language ( Lenguaje de español ) \*
-
+### Spanish Language  ( Lenguaje de español )   *
     - Lengua en español para visual studio code
 
-### ES7 \*
 
+### Auto close Tag *
+    - Cierre automatico de etiquetas
+
+
+### Auto Import *
+    - Auto importar
+
+
+### Auto rename tag * 
+    - Auto renombrar tags
+
+
+### Path intellisense *
+    - Ayuda con los paths o rutas
+
+### ES7     *
     - Extension de autocompletado y abreviaciones para React
 
-### JavaScript \*
 
-    - Extension de autocompletado y abreviaciones para JavaScript
+### JavaScript      *
+    - Extension de autocompletado y abreviaciones para JavaScript 
 
-### vscode-styled-components \*
 
-    - Extension de autocompletado y abreviacion para styled components
+### vscode-styled-components        *
+    -   Extension de autocompletado y abreviacion para Styled Component
 
-### TabNine - Autocompletado con AI \*
 
+### TabNine - Autocompletado con AI     *
     - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
 
-### Prettier - Code formatter \*
 
+### Prettier - Code formatter   *
     - Organizar el codigo
 
-### Todo Tree \*
+### Todo Tree   *
+    - Extencion para crear tareas pendientes por hacer 
 
-    - Extencion para crear tareas pendientes por hacer
 
-### Live Server ( Crear Servidor dentro de una carpeta ) \*
-
+### Live Server ( Crear Servidor dentro de una carpeta )    *
     - Click derecho Live Server - Crear servidor
 
-### Rainbow Brakets \*
 
+### Bracket Pair Colorizer *
     - Parentesis en colores para diferenciar un encadenado largo
 
-### css-in-js \*
 
-    - Autocompletado de Styles CSS en archivos .js
-
-### vscode-pdf \*
-
+### vscode-pdf  *
     - Visualizar archivos .pdf
 
-### Typescript \* ( Dev Frontend )
 
-    - JavaScript and TypeScript IntelliSense.
+### MobileView *
+    - Visualizador en vista mobile
 
-### MobileView \*
 
-    - Visualizador en vista mobil
+### Hero * ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
+    - Compilador ts, tsx, scss, less, jade, pug y es6+ solo con activar el compilador y guardar 
 
-### Hero \* ( Easy to compile ts, tsx, scss, less, jade, pug and es6+ on save without using a build task. )
 
-    - Compilador ts, tsx, scss, less, jade, pug y es6+ solo con activar el compilador y guardar
-
-### Color Highlight \*
-
+### Color Highlight     *
     - Mostrar colores (Uso en nc para mostrar colores hexadecimales en .js)
 
-### Sass \*
 
+### Sass        *
     - Extension de Autocompletado y abreviacion de el preprocesador SASS
 
-### Polacode
 
-    - Crear capturas o imagenes del codigo en png
+### React native snippet *
+    - Snippets para react native
+
+
+### React native styled components snippets *
+    - Snippets react native styled components
+
+
+### Typescript ( Dev Frontend )
+    - JavaScript and TypeScript IntelliSense.
+
+
+### css-in-js
+    - Autocompletado de Styles CSS en archivos .js
+
+
+### Polacode
+    - Crear capturas o imagenes del codigo en png 
+
 
 ### Jest ( Testing )
 
-### htmltagwrap
 
+### htmltagwrap
     - Tags para encerrar con etiquetas facilmente
+
 
 ### Quokka.js
 
+
+
 ### emmet
+
+
 
 ==================================================================================================
 
@@ -107,16 +132,14 @@
 ## EXTENSIONES GIT
 
 ### Git Lens
-
     - Muestra textos sombreados a lado del codigo con la fecha y el mensaje de commit que se hizo.
 
 ### Git Graph
-
     - Grafico de ramificacion del repositorio
 
 ### Git History
-
     - Muestra el historial del repositorio
+
 
 =============================================================================================
 
@@ -124,16 +147,18 @@
 
 ## EXTENSIONES GRAPHQL
 
-### GraphQL
-
+###  GraphQL
     - Sintaxis GraphQL reconoce archivos .graphql - .gpl
 
+
 <br>
+
 
 ## EXTENSIONES APOLLO GRAPHQL
 
 ### Apollo GraphQL
-
     - Sintaxis Apollo GraphQl
 
-### DEno
+
+### Deno
+
