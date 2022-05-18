@@ -37,11 +37,11 @@
     - Extension de autocompletado y abreviaciones para JavaScript 
 
 
-### vscode-styled-components        *
+### vscode-styled-components *
     -   Extension de autocompletado y abreviacion para Styled Component
 
 
-### TabNine - Autocompletado con AI     *
+### TabNine - Autocompletado con AI *
     - TabNine es un autocompletado con AI de forma Free es su estado Basic y de Pago en Pro y por Team
 
 
@@ -52,7 +52,7 @@
     - Extencion para crear tareas pendientes por hacer 
 
 
-### Live Server ( Crear Servidor dentro de una carpeta )    *
+### rLive Serve ( Crear Servidor dentro de una carpeta )    *
     - Click derecho Live Server - Crear servidor
 
 
@@ -112,7 +112,6 @@
 
 
 ### emmet
-
 
 
 
